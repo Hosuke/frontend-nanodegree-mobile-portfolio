@@ -46,8 +46,10 @@ var stars = {
             that.run();
         }
     }
-    //,
-    //
+
+    // The following scripts are supposed to draw lines between dots in the home page
+    // They are unfinished and untested at this moment
+
     //starProgressLine: {
     //    getTwoPointWidthAndDeg: function (x1, x2, y1, y2){
     //        // get width and deg between two point
