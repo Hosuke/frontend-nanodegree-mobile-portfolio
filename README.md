@@ -4,6 +4,14 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 
 To get started, check out the repository, inspect the code,
 
+
+### Optimize pizza.html
+1. Move the .mover query outside the updatePositions() function
+2. Calculate scrollPos outside the loop in updatePositions()
+3. Move the .randomPizzaContainer query outside the changePizzaSizes() function
+4. Do the calculation outside the loop in changePizzaSizes
+5. Reduce the number of pizza painted
+
 ### Getting started
 
 Some useful tips to help you get started:
