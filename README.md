@@ -16,6 +16,7 @@ Or simply open my gh-pages: http://hosuke.github.io/frontend-nanodegree-mobile-p
 
 ### Optimize pizza.html
 Preview at http://hosuke.github.io/frontend-nanodegree-mobile-portfolio/views/pizza.html
+
 1. Move the .mover query outside the updatePositions() function
 2. Calculate scrollPos outside the loop in updatePositions()
 3. Move the .randomPizzaContainer query outside the changePizzaSizes() function
