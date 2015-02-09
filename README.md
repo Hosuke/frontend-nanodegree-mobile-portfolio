@@ -5,6 +5,15 @@ Your challenge, if you wish to accept it (and we sure hope you will), is to opti
 To get started, check out the repository, inspect the code,
 
 
+### How to build/run the portfolio page
+0. open terminal at the root directory
+1. npm install
+2. grunt deploy
+3. go to dist/ directory
+4. open index.html
+
+Or simply open my gh-pages: http://hosuke.github.io/frontend-nanodegree-mobile-portfolio/dist/
+
 ### Optimize pizza.html
 1. Move the .mover query outside the updatePositions() function
 2. Calculate scrollPos outside the loop in updatePositions()
